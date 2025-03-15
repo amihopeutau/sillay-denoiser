@@ -22,8 +22,8 @@ i made a silly little denoiser. it makes it so you don't sound like you're in a 
    ```bash
    git clone https://github.com/amihopeutau/sillay-denoiser.git
    ```
-4. **Run the script**:
-   ```bash
+4. **Run the batch file** or **Run the script**:
+   ``` bash
    python denoise_voicebank.py
    ```
 ### Option 2: Use the Executable
