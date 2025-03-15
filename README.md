@@ -19,13 +19,13 @@ i made a silly little denoiser. it makes it so you don't sound like you're in a 
    pip install numpy noisereduce pydub pygame
    ```
 3. **Clone this repository**:
-  ```bash
-  git clone https://github.com/amihopeutau/sillay-denoiser.git
-  ```
+   ```bash
+   git clone https://github.com/amihopeutau/sillay-denoiser.git
+   ```
 4. **Run the script**:
-  ```bash
-  python denoise_voicebank.py
-  ```
+   ```bash
+   python denoise_voicebank.py
+   ```
 ### Option 2: Use the Executable
 1. Download the latest release.
 2. Double click to run it.
