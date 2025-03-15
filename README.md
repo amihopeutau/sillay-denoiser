@@ -27,7 +27,7 @@ i made a silly little denoiser. it makes it so you don't sound like you're in a 
    python denoise_voicebank.py
    ```
 ### Option 2: Use the Executable
-1. Download the latest release.
+1. Download the executable [here](https://drive.google.com/file/d/1OR1N4Gg4eih8-pV_FAEhn_eEnuyRvIlo/view?usp=drive_link) (sorry gang the file is too big to upload 💔).
 2. Double click to run it.
 
 ## Usage
