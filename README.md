@@ -16,7 +16,7 @@ i made a silly little denoiser. it makes it so you don't sound like you're in a 
 1. **Install Python**: Download and install Python from [here](https://www.python.org/) if you don't already have it.
 2. **Install Required Libraries**:
    ```bash
-   pip install numpy noisereduce pydub pygame
+   pip install -r requirements.txt
    ```
 3. **Clone this repository**:
    ```bash
